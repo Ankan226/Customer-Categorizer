@@ -1,0 +1,6 @@
+README.md
+setup.py
+customer_personality_analysis.egg-info/PKG-INFO
+customer_personality_analysis.egg-info/SOURCES.txt
+customer_personality_analysis.egg-info/dependency_links.txt
+customer_personality_analysis.egg-info/top_level.txt
